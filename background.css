@@ -1,0 +1,8 @@
+header {
+  background-color: #1e6091;
+  color: white;
+}
+
+img {
+  filter: brightness(0) invert(1);
+}
